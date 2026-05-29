@@ -51,7 +51,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/selezeni
     - icon: fontawesome/brands/telegram
-      # link: https://t.me/твой_канал # ← замени на реальный
+      # link: https://t.me/канал
 
 # Репозиторий + кнопка "Редактировать"
 repo_url: https://github.com/selezeni/mkdocs-demo
